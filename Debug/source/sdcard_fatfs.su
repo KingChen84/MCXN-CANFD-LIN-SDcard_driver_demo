@@ -1,0 +1,10 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\CMSIS/core_cm33.h:2358:22:__NVIC_EnableIRQ	16	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_common_arm.h:667:24:EnableIRQ	24	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_gpio.h:389:20:GPIO_PortClear	16	static
+../source/sdcard_fatfs.c:120:6:LP_FLEXCOMM2_IRQHandler	4	static
+../source/sdcard_fatfs.c:183:6:uart_LIN_break	16	static
+../source/sdcard_fatfs.c:202:6:SD_Fatfs_test	608	static
+../source/sdcard_fatfs.c:387:5:main	56	static
+../source/sdcard_fatfs.c:453:17:sdcardWaitCardInsert	8	static
+../source/sdcard_fatfs.c:482:9:LINCheckSum	24	static
+../source/sdcard_fatfs.c:498:9:LINCalcParity	24	static

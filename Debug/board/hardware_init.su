@@ -1,0 +1,2 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_clock.h:1489:20:CLOCK_EnableClock	24	static
+../board/hardware_init.c:18:6:BOARD_InitHardware	8	static

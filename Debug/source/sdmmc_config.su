@@ -1,0 +1,10 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+../source/sdmmc_config.c:44:10:BOARD_USDHC1ClockConfiguration	8	static
+../source/sdmmc_config.c:54:6:BOARD_SDCardGetDetectStatus	16	static
+../source/sdmmc_config.c:69:6:SDMMC_SD_CD_Callback	24	static
+../source/sdmmc_config.c:77:6:BOARD_SDCardDAT3PullFunction	24	static
+../source/sdmmc_config.c:131:6:BOARD_SDCardDetectInit	24	static
+../source/sdmmc_config.c:174:6:BOARD_SDCardPowerResetInit	16	static
+../source/sdmmc_config.c:185:6:BOARD_SDCardPowerControl	16	static
+../source/sdmmc_config.c:199:6:BOARD_SD_Config	32	static

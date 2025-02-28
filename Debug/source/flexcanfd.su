@@ -1,0 +1,8 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\CMSIS/core_cm33.h:2555:22:__NVIC_SetPriority	16	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\CMSIS/core_cm33.h:3108:26:SysTick_Config	16	static
+../source/flexcanfd.c:76:6:SysTick_Handler	4	static
+../source/flexcanfd.c:84:6:SysTick_SetTicks	16	static
+../source/flexcanfd.c:89:6:SysTick_config	16	static
+../source/flexcanfd.c:112:8:flexcan_callback	24	static
+../source/flexcanfd.c:149:6:MCXN_flexcan_init	72	static
+../source/flexcanfd.c:266:6:MCXN_flexcan_Test	80	static

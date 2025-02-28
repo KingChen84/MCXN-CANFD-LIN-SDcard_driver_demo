@@ -1,0 +1,240 @@
+
+2/28/2025 09:08:18.687 [RX] - SystemCoreClock Freq=150000000<CR><LF>
+<CR><LF>
+FATFS example to demonstrate how to use FATFS with SD card.<CR><LF>
+<CR><LF>
+Please ins?
+2/28/2025 09:08:21.588 [RX] - SystemCoreClock Freq=150000000<CR><LF>
+<CR><LF>
+FATFS example to demonstrate how to use FATFS with SD card.<CR><LF>
+<CR><LF>
+Please insert a card into board.<CR><LF>
+
+2/28/2025 09:08:24.886 [RX] - <CR><LF>
+Card inserted.<CR><LF>
+
+2/28/2025 09:08:25.511 [RX] - <CR><LF>
+Create directory......<CR><LF>
+
+2/28/2025 09:08:26.322 [RX] - Directory exists.<CR><LF>
+<CR><LF>
+Create a canfd csv......<CR><LF>
+
+2/28/2025 09:08:26.331 [RX] - <CR><LF>
+Start CANFD Init<CR><LF>
+*********MCXN FLEXCAN Log demo ********* Freq=80000000<CR><LF>
+    Message format: Standard (11 bit id)<CR><LF>
+    Interrupt Mode: Enabled<CR><LF>
+    Operation Mode: TX and RX --> Normal<CR><LF>
+*********************************************<CR><LF>
+<CR><LF>
+<CR><LF>
+Start LIN slave<CR><LF>
+
+2/28/2025 09:10:00.409 [RX] - Rx MB ID: 0x74f, Rx MB data: 0xee, Time stamp: 40155<CR><LF>
+RxMBdataWord0: 0xeeff1122<CR><LF>
+RxMBdataWord1: 0x33447788<CR><LF>
+RxMBdataWord2: 0x53866876<CR><LF>
+RxMBdataWord3: 0x87867867<CR><LF>
+RxMBdataWord4: 0x87876879<CR><LF>
+RxMBdataWord5: 0x89897897<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0xff<CR><LF>
+
+2/28/2025 09:10:01.618 [RX] - Rx MB ID: 0x7ff, Rx MB data: 0xaa, Time stamp: 14291<CR><LF>
+RxMBdataWord0: 0xaa123212<CR><LF>
+RxMBdataWord1: 0x54335435<CR><LF>
+RxMBdataWord2: 0x0<CR><LF>
+RxMBdataWord3: 0x0<CR><LF>
+RxMBdataWord
+2/28/2025 09:10:01.634 [RX] - 4: 0x0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 
+2/28/2025 09:10:01.638 [RX] - 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0x0<CR><LF>
+
+2/28/2025 09:10:02.538 [RX] - Rx MB ID: 0x123, Rx MB data: 0x7f, Time stamp: 1142<CR><LF>
+RxMBdataWord0: 0x7f321321<CR><LF>
+RxMBdataWord1: 0x32324234<CR><LF>
+RxMBdataWord2: 0xee0<CR><LF>
+RxMBdataWord3: 0x23<CR><LF>
+RxMBdataWord4: 0x40000ff0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x234ad00<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x54300000<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x2400000<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x24300000<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x11212313<CR><LF>
+RxMBdataWord15: 0x543500ff<CR><LF>
+
+2/28/2025 09:10:04.417 [RX] - Rx MB ID: 0x74f, Rx MB data: 0xee, Time stamp: 22207<CR><LF>
+RxMBdataWord0: 0xeeff1122<CR><LF>
+RxMBdataWord1: 0x33447788<CR><LF>
+RxMBdataWord2: 0x53866876<CR><LF>
+RxMBdataWord3: 0x87867867<CR><LF>
+RxMBdataWord4: 0x87876879<CR><LF>
+RxMBdataWord5: 0x89897897<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0xff<CR><LF>
+
+2/28/2025 09:10:05.450 [RX] - Rx MB ID: 0x7ff, Rx MB data: 0xaa, Time stamp: 57041<CR><LF>
+RxMBdataWord0: 0xaa123212<CR><LF>
+RxMBdataWord1: 0x54335435<CR><LF>
+RxMBdataWord2: 0x0<CR><LF>
+RxMBdataWord3: 0x0<CR><LF>
+RxMBdataWord4: 0x0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0x0<CR><LF>
+
+2/28/2025 09:10:07.137 [RX] - Rx MB ID: 0x123, Rx MB data: 0x7f, Time stamp: 57346<CR><LF>
+RxMBdataWord0: 0x7f321321<CR><LF>
+RxMBdataWord1: 0x32324234<CR><LF>
+RxMBdataWord2: 0xee0<CR><LF>
+RxMBdataWord3: 0x23<CR><LF>
+RxMBdataWord4: 0x40000ff0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x234ad00<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x54300000<CR>
+
+2/28/2025 09:10:07.164 [RX] - <LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x2400000<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x24300000<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x11212313<CR><LF>
+RxMBdataWord
+2/28/2025 09:10:07.179 [RX] - 15: 0x543500ff<CR><LF>
+
+2/28/2025 09:10:08.497 [RX] - Rx MB ID: 0x7ff, Rx MB data: 0xaa, Time stamp: 24586<CR><LF>
+RxMBdataWord0: 0xaa123212<CR><LF>
+RxMBdataWord1: 0x54335435<CR><LF>
+RxMBdataWord2: 0x0<CR><LF>
+RxMBdataWord3: 0x0<CR><LF>
+RxMBdataWord4: 0x0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0x0<CR><LF>
+
+2/28/2025 09:10:11.849 [RX] - Rx MB ID: 0x74f, Rx MB data: 0xee, Time stamp: 37292<CR><LF>
+RxMBdataWord0: 0xeeff1122<CR><LF>
+RxMBdataWord1: 0x33447788<CR><LF>
+RxMBdataWord2: 0x53866876<CR><LF>
+RxMBdataWord3: 0x87867867<CR><LF>
+RxMBdataWord4: 0x87876879<CR><LF>
+RxMBdataWord5: 0x89897897<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0xff<CR><LF>
+
+2/28/2025 09:10:15.158 [RX] - Rx MB ID: 0x123, Rx MB data: 0x7f, Time stamp: 13761<CR><LF>
+RxMBdataWo
+2/28/2025 09:10:15.166 [RX] - rd0: 0x7f321321<CR><LF>
+RxMBdataWord1: 0x32324234<CR><LF>
+RxMBdataWord2: 0xee0<CR><LF>
+RxMBdataWord3: 0x23<CR><LF>
+RxMBdataWord4: 0x4
+2/28/2025 09:10:15.171 [RX] - 0000ff0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x234ad00<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x54300000<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x2400000<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x24300000<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x11212313<CR><LF>
+RxMBdataWord15: 0x543500ff<CR><LF>
+
+2/28/2025 09:10:17.986 [RX] - Rx MB ID: 0x7ff, Rx MB data: 0xaa, Time stamp: 39335<CR><LF>
+RxMBdataWord0: 0xaa123212<CR><LF>
+RxMBdataWord1: 0x54335435<CR><LF>
+RxMBdataWord2: 0x0<CR><LF>
+RxMBdataWord3: 0x0<CR><LF>
+RxMBdataWord4: 0x0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x0<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x0<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x0<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x0<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x0<CR><LF>
+RxMBdataWord15: 0x0<CR><LF>
+
+2/28/2025 09:10:18.029 [RX] - bus record finished <CR><LF>
+
+2/28/2025 09:10:22.049 [RX] - Rx MB ID: 0x123, Rx MB data: 0x7f, Time stamp: 269<CR><LF>
+RxMBdataWord0: 0x7f321321<CR><LF>
+RxMBdataWord1: 0x32324234<CR><LF>
+RxMBdataWord2: 0xee0<CR><LF>
+RxMBdataWord3: 0x23<CR><LF>
+RxMBdataWord4: 0x40000ff0<CR><LF>
+RxMBdataWord5: 0x0<CR><LF>
+RxMBdataWord6: 0x234ad00<CR><LF>
+RxMBdataWord7: 0x0<CR><LF>
+RxMBdataWord8: 0x54300000<CR><LF>
+RxMBdataWord9: 0x0<CR><LF>
+RxMBdataWord10: 0x2400000<CR><LF>
+RxMBdataWord11: 0x0<CR><LF>
+RxMBdataWord12: 0x24300000<CR><LF>
+RxMBdataWord13: 0x0<CR><LF>
+RxMBdataWord14: 0x11212313<CR><LF>
+RxMBdataWord15: 0x543500ff<CR><LF>
+ 

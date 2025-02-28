@@ -1,0 +1,5 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_clock.h:1489:20:CLOCK_EnableClock	24	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_port.h:463:20:PORT_SetPinMux	24	static
+../board/pin_mux.c:38:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:92:6:BOARD_InitPins	64	static

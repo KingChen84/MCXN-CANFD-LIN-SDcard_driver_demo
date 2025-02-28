@@ -1,0 +1,15 @@
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\CMSIS/core_cm33.h:2358:22:__NVIC_EnableIRQ	16	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_common_arm.h:667:24:EnableIRQ	24	static
+D:\MCUXpresso-Project\frdmmcxn947_CANFD-LIN-Log\drivers/fsl_gpio.h:389:20:GPIO_PortClear	16	static
+../source/MCXN-CANFD-LIN-Log.c:122:6:LP_FLEXCOMM2_IRQHandler	4	static
+../source/MCXN-CANFD-LIN-Log.c:185:6:uart_LIN_break	16	static
+../source/MCXN-CANFD-LIN-Log.c:204:6:SD_Fatfs_test	608	static
+../source/MCXN-CANFD-LIN-Log.c:385:6:sd_savecsv_header	608	static
+../source/MCXN-CANFD-LIN-Log.c:504:6:write_lin_file	24	static
+../source/MCXN-CANFD-LIN-Log.c:527:6:write_canfd_file	24	static
+../source/MCXN-CANFD-LIN-Log.c:553:6:close_lin_file	8	static
+../source/MCXN-CANFD-LIN-Log.c:562:6:close_canfd_file	8	static
+../source/MCXN-CANFD-LIN-Log.c:573:5:main	56	static
+../source/MCXN-CANFD-LIN-Log.c:632:17:sdcardWaitCardInsert	8	static
+../source/MCXN-CANFD-LIN-Log.c:661:9:LINCheckSum	24	static
+../source/MCXN-CANFD-LIN-Log.c:677:9:LINCalcParity	24	static
